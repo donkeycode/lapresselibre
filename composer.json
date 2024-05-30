@@ -22,7 +22,7 @@
         "ext-hash": "*",
         "psr/http-message": "^1.0",
         "psr/log": "^1.0",
-        "symfony/options-resolver": "^2.8|^3.3"
+        "symfony/options-resolver": "^2.8|^3.3|^4.4"
     },
     "require-dev": {
         "zendframework/zend-diactoros": "^1.4",
